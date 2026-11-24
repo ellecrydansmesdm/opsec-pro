@@ -1,0 +1,14 @@
+# OPSEC Pro — Public Distribution Repository (.gitignore)
+node_modules/
+dist/
+dist-electron/
+release/
+.env*
+*.local
+*.exe
+*.asar
+*.jsc
+*.ts
+*.tsx
+.data/
+.git-private/
